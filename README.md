@@ -14,4 +14,6 @@ Steps:
 3. Feed this to the training and testing scripts of raw-waveform based CNN network for gender classification.
 4. Note that the splitting of the data needs to be done as specified in the IS18 paper: https://publications.idiap.ch/downloads/papers/2018/Sebastian_IS2018_2018.pdf
 
+If you use this work in your research, please cite our paper:
+
 Sebastian J, Kumar M, DS PK, Magimai-Doss M, Murthy HA, Narayanan S. Denoising and Raw-waveform Networks for Weakly-Supervised Gender Identification on Noisy Speech. InInterspeech 2018 Jan 1 (pp. 292-296).
